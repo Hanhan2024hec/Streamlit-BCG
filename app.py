@@ -373,8 +373,11 @@ st.subheader("💡 Risk-to-Action Decision Engine")
 st.markdown(
     "Map climate risk against procurement exposure to generate **targeted action packs** "
     "for ESG, procurement & operations teams."
-
+)
+st.markdown(
     "It maps each department by risk and exposure. "
+)
+st.markdown(
     "· x-axis :yield change % (risk) · y-axis : predicted production share (exposure) "
 )
 
